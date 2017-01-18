@@ -87,6 +87,9 @@
 		<Unit filename="/home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/tests/main.c">
 			<Option target="tests"/>
 		</Unit>
+		<Unit filename="/home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/tests/main.h">
+			<Option target="tests"/>
+		</Unit>
 		<Unit filename="/home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/tests/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

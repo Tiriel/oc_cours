@@ -3,5 +3,5 @@ project(tests)
 
 set(CMAKE_C_STANDARD 99)
 
-set(SOURCE_FILES main.c)
+set(SOURCE_FILES main.c main.h)
 add_executable(tests ${SOURCE_FILES})

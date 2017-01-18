@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-void decoupeMinutes(int *heures, int *minutes);
-void afficherTableau(int tableau[], int taille);
-void printStrlen(char *string);
+#include "main.h"
 
 int main(int argc, char *argv[]) {
     int tableau[4] = {0}, i =0;
