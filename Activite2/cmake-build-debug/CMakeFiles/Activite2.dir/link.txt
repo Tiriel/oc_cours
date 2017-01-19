@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Activite2.dir/main.c.o  -o Activite2 
