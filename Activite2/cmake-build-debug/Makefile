@@ -39,19 +39,33 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
+<<<<<<< HEAD
 CMAKE_COMMAND = /home/benjamin/app/clion-2016.3.2/bin/cmake/bin/cmake
 
 # The command to remove a file.
 RM = /home/benjamin/app/clion-2016.3.2/bin/cmake/bin/cmake -E remove -f
+=======
+CMAKE_COMMAND = /home/benjamin/progs/clion-2016.3.2/bin/cmake/bin/cmake
+
+# The command to remove a file.
+RM = /home/benjamin/progs/clion-2016.3.2/bin/cmake/bin/cmake -E remove -f
+>>>>>>> master
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2/cmake-build-debug
+=======
+CMAKE_SOURCE_DIR = /home/benjamin/dev/ben/oc_cours/Activite2
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = /home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug
+>>>>>>> master
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -59,7 +73,11 @@ CMAKE_BINARY_DIR = /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+<<<<<<< HEAD
 	/home/benjamin/app/clion-2016.3.2/bin/cmake/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+=======
+	/home/benjamin/progs/clion-2016.3.2/bin/cmake/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+>>>>>>> master
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -70,7 +88,11 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+<<<<<<< HEAD
 	/home/benjamin/app/clion-2016.3.2/bin/cmake/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+=======
+	/home/benjamin/progs/clion-2016.3.2/bin/cmake/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+>>>>>>> master
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -80,9 +102,15 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
+<<<<<<< HEAD
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2/cmake-build-debug/CMakeFiles /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2/cmake-build-debug/CMakeFiles 0
+=======
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug/CMakeFiles /home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug/CMakeFiles/progress.marks
+	$(MAKE) -f CMakeFiles/Makefile2 all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug/CMakeFiles 0
+>>>>>>> master
 .PHONY : all
 
 # The main clean target

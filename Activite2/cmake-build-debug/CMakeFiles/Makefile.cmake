@@ -11,6 +11,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.6.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.6.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.6.3/CMakeSystem.cmake"
+<<<<<<< HEAD
   "/home/benjamin/app/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/CMakeCInformation.cmake"
   "/home/benjamin/app/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/CMakeCXXInformation.cmake"
   "/home/benjamin/app/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/CMakeCommonLanguageInclude.cmake"
@@ -29,6 +30,26 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/benjamin/app/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/Platform/Linux.cmake"
   "/home/benjamin/app/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/Platform/UnixPaths.cmake"
   "/home/benjamin/app/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/ProcessorCount.cmake"
+=======
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/CMakeCInformation.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/CMakeCXXInformation.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/CMakeCommonLanguageInclude.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/CMakeFindCodeBlocks.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/CMakeGenericSystem.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/CMakeLanguageInformation.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/CMakeSystemSpecificInformation.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/CMakeSystemSpecificInitialize.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/Compiler/GNU-C.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/Compiler/GNU-CXX.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/Compiler/GNU.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/Platform/Linux-GNU-C.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/Platform/Linux-GNU-CXX.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/Platform/Linux-GNU.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/Platform/Linux.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/Platform/UnixPaths.cmake"
+  "/home/benjamin/progs/clion-2016.3.2/bin/cmake/share/cmake-3.6/Modules/ProcessorCount.cmake"
+>>>>>>> master
   )
 
 # The corresponding makefile is:

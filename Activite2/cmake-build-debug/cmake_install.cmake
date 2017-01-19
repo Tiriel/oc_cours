@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Install script for directory: /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2
+=======
+# Install script for directory: /home/benjamin/dev/ben/oc_cours/Activite2
+>>>>>>> master
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +44,9 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
+<<<<<<< HEAD
 file(WRITE "/home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+=======
+file(WRITE "/home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+>>>>>>> master
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
