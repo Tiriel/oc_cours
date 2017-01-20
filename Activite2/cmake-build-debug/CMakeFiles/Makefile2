@@ -45,33 +45,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-<<<<<<< HEAD
 CMAKE_COMMAND = /home/benjamin/app/clion-2016.3.2/bin/cmake/bin/cmake
 
 # The command to remove a file.
 RM = /home/benjamin/app/clion-2016.3.2/bin/cmake/bin/cmake -E remove -f
-=======
-CMAKE_COMMAND = /home/benjamin/progs/clion-2016.3.2/bin/cmake/bin/cmake
-
-# The command to remove a file.
-RM = /home/benjamin/progs/clion-2016.3.2/bin/cmake/bin/cmake -E remove -f
->>>>>>> master
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-<<<<<<< HEAD
 CMAKE_SOURCE_DIR = /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2/cmake-build-debug
-=======
-CMAKE_SOURCE_DIR = /home/benjamin/dev/ben/oc_cours/Activite2
-
-# The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug
->>>>>>> master
 
 #=============================================================================
 # Target rules for target CMakeFiles/Activite2.dir
@@ -80,11 +66,7 @@ CMAKE_BINARY_DIR = /home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug
 CMakeFiles/Activite2.dir/all:
 	$(MAKE) -f CMakeFiles/Activite2.dir/build.make CMakeFiles/Activite2.dir/depend
 	$(MAKE) -f CMakeFiles/Activite2.dir/build.make CMakeFiles/Activite2.dir/build
-<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Activite2"
-=======
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Activite2"
->>>>>>> master
 .PHONY : CMakeFiles/Activite2.dir/all
 
 # Include target in all.
@@ -94,15 +76,9 @@ all: CMakeFiles/Activite2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Activite2.dir/rule: cmake_check_build_system
-<<<<<<< HEAD
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Activite2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2/cmake-build-debug/CMakeFiles 0
-=======
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Activite2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug/CMakeFiles 0
->>>>>>> master
 .PHONY : CMakeFiles/Activite2.dir/rule
 
 # Convenience name for target.

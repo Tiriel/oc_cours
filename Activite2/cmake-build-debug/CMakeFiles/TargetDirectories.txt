@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /home/benjamin/Documents/0-_OC/19-_Apprennez_a_programmer_en_c/oc_cours/Activite2/cmake-build-debug/CMakeFiles/Activite2.dir
-=======
-/home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/benjamin/dev/ben/oc_cours/Activite2/cmake-build-debug/CMakeFiles/Activite2.dir
->>>>>>> master
