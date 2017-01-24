@@ -1,0 +1,8 @@
+/home/benjamin/progs/clion-2016.3.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/benjamin/dev/ben/oc_cours/Activite3bis
+<FindSDL2.cmake>
+</FindSDL2.cmake>
+-- Found SDL2_image: /usr/lib/x86_64-linux-gnu/libSDL2_image.so (found version "..") 
+-- Found SDL2_ttf: /usr/lib/x86_64-linux-gnu/libSDL2_ttf.so (found version "..") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/benjamin/dev/ben/oc_cours/Activite3bis/cmake-build-debug

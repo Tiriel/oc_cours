@@ -1,10 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#include "main.h"
 
 int main() {
-    int *age = NULL;
+int *age = NULL;
     int nombre = 0, i = 0;
 
     printf("Combien d'amis avez-vous?\n");
@@ -22,9 +20,9 @@ int main() {
 
         printf("Vos amis ont les ages suivants:\n");
         for (i = 0; i < nombre; i++) {
-            printf("Ami numéro %d: %d ans", i+1, age[i]);
+            printf("Ami numéro %d: %d ans\n", i+1, age[i]);
         }
+        free(age);
     }
-
     return 0;
 }
